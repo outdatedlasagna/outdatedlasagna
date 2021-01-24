@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### My name is Maria :heart:
 ### I am studying web development in [The Odin Project](theodinproject.com/) :nerd_face: :orange_book:
+### [The Odin Project activities](https://outdatedlasagna.github.io/The_Odin_Project/)
+
 
 <!--
 **outdatedlasagna/outdatedlasagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
