@@ -2,6 +2,7 @@
 ### My name is Maria :heart:
 ### I am studying web development in [The Odin Project](theodinproject.com/) :nerd_face: :orange_book:
 ### Feel free to check my [activities](https://outdatedlasagna.github.io/The_Odin_Project/) for The Odin Project :blossom:
+### [Other Activities](https://outdatedlasagna.github.io/HTMLCSSJS/)
 
 
 <!--
